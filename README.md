@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Johnston</h1>
 <h3 align="center">A passionate Web Developer and Video Editor</h3>
 
+#My GIF
 ![](https://github.com/Evan-Johnston/EvanJohnston_Gif.gif)
 
 - 🔭 I’m currently working on [Brewed Improvements](https://brewedimprovements.com)
