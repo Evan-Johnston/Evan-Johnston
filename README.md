@@ -5,15 +5,7 @@
 
 - 🔭 I’m currently working on [Brewed Improvements](https://brewedimprovements.com)
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://evan-johnston.com](https://evan-johnston.com)
-
-- 💬 Ask me about **My favorite coffee**
-
 - 📫 How to reach me **evan@evan-johnston.com**
-
-- ⚡ Fun fact **I am a cat person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
